@@ -1,8 +1,8 @@
 # Gesture Recognition
 
-Recognize different gestures from an IMU device, such as a flying drone or a mobile phone, using Hidden Markov Model.
+Recognize different gestures from an IMU device, such as a flying drone or a mobile phone, using Hidden Markov Model. See `Project Report.pdf` for full detail.
 
-
+![gestures](gestures.png)
 
 ## How to run
 
